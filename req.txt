@@ -1,0 +1,8 @@
+matplotlib 
+numpy 
+opencv-python 
+pandas 
+ultralytics
+torch -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+torchvision -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+torchaudio -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
